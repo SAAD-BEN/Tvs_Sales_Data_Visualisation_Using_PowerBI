@@ -45,11 +45,7 @@ The dashboard is structured as follows:
 - **Filters:** All dashboard pages include a list of filters on the left side, allowing you to interactively explore data based on different dimensions.
 
 ## Screenshots
-
-Include screenshots or images of the dashboard to provide users with a preview of what they can expect. You can use the following code to embed images:
-
-```markdown
-![Dashboard Screenshot 1](screenshots/OverviewTvsSales.png)
-![Dashboard Screenshot 2](screenshots/ProgressTvsSales.png)
-![Dashboard Screenshot 3](screenshots/AddOnsTvsSales.png)
+[Dashboard Screenshot 1](screenshots/OverviewTvsSales.png)
+[Dashboard Screenshot 2](screenshots/ProgressTvsSales.png)
+[Dashboard Screenshot 3](screenshots/AddOnsTvsSales.png)
 
