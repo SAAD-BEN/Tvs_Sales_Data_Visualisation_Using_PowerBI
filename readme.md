@@ -45,7 +45,7 @@ The dashboard is structured as follows:
 - **Filters:** All dashboard pages include a list of filters on the left side, allowing you to interactively explore data based on different dimensions.
 
 ## Screenshots
-[Dashboard Screenshot 1](screenshots/OverviewTvsSales.png)
-[Dashboard Screenshot 2](screenshots/ProgressTvsSales.png)
-[Dashboard Screenshot 3](screenshots/AddOnsTvsSales.png)
+![Dashboard Screenshot 1](screenshots/OverviewTvsSales.png)
+![Dashboard Screenshot 2](screenshots/ProgressTvsSales.png)
+![Dashboard Screenshot 3](screenshots/AddOnsTvsSales.png)
 
