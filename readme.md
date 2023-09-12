@@ -15,14 +15,14 @@ This repository contains the Power BI dashboard for visualizing TV sales data. T
 Our Power BI dashboard is designed to provide valuable insights and visualizations based on the integrated TV sales data. It offers an interactive and user-friendly interface for exploring key metrics and trends in the sales data. This dashboard serves as the visual interface to the data integration process, offering a clear perspective on the results of our ETL efforts.
 
 ## Screenshots
-![Dashboard Screenshot 1](screenshots/OverviewTvsSales.png)
 ### Overview
+![Dashboard Screenshot 1](screenshots/OverviewTvsSales.png)
 
+### Progress
 ![Dashboard Screenshot 2](screenshots/ProgressTvsSales.png)
-###Progress
 
+### AddOns
 ![Dashboard Screenshot 3](screenshots/AddOnsTvsSales.png)
-###AddOns
 
 ## Accessing the Dashboard
 
