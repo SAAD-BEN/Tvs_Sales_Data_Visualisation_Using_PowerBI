@@ -6,11 +6,9 @@ This repository contains the Power BI dashboard for visualizing TV sales data. T
 ## Table of Contents
 
 - [Dashboard Overview](#dashboard-overview)
+- [Screenshots](#screenshots)
 - [Accessing the Dashboard](#accessing-the-dashboard)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Dashboard Overview
 
